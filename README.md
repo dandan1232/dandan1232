@@ -1,6 +1,6 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D4F7&random=false&width=435&lines=Life+is+short%2C+why+not+have+a+try%3F)](https://git.io/typing-svg)
+<a style="text-align=center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D4F7&random=false&width=435&lines=Life+is+short%2C+why+not+have+a+try%3F)](https://git.io/typing-svg)</a>
 
-![Image text](http://pic-ldd-test.oss-cn-hangzhou.aliyuncs.com/%7B55B45BE3-6ADA-4bd2-A795-2BAACFD3209A%7D.png)
+![Image]([http://pic-ldd-test.oss-cn-hangzhou.aliyuncs.com/%7B55B45BE3-6ADA-4bd2-A795-2BAACFD3209A%7D.png](https://camo.githubusercontent.com/3d672f928bec2ad62eca35323f23907e17557f8df85833573e0a16bccbf6e4c0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966))
 <hr>
 
 
