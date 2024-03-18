@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
+
 - 👋 Hi, I’m @dandan
 - 👀 I am very interested in trying new things and have a high thirst for knowledge
 - 🌱 While completing my studies, I am also trying to explore new fields, such as AI and digital life
