@@ -1,7 +1,8 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D4F7&random=false&width=435&lines=Life+is+short%2C+why+not+have+a+try%3F)](https://git.io/typing-svg)
 
+![Image text](http://pic-ldd-test.oss-cn-hangzhou.aliyuncs.com/%7B55B45BE3-6ADA-4bd2-A795-2BAACFD3209A%7D.png)
 <hr>
-<hr>
+
 
 - 👋 Hi, I’m @dandan
 - 👀 I am very interested in trying new things and have a high thirst for knowledge
