@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (I don't know how to answer this question because I'm just a beginner)
 - 📫 How to reach me: Maybe we can meet each other with WeChat:waitu1232
 
-- [![Lorin-github](https://github-readme-stats.vercel.app/api?username=Lorin-github)](https://github.com/anuraghazra/github-readme-stats)
+- [![dandan1232](https://github-readme-stats.vercel.app/api?username=dandan1232)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
