@@ -1,4 +1,4 @@
-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D4F7&random=false&width=435&lines=Life+is+short%2C+why+not+have+a+try%3F)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D4F7&random=false&width=435&lines=Life+is+short%2C+why+not+have+a+try%3F)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @dandan
