@@ -24,7 +24,8 @@
     <a href="https://space.bilibili.com/21846291?spm_id_from=333.1007.0.0">
       <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4"/></a>&emsp;
     
-    <img src="https://komarev.com/ghpvc/?username=dandan1232&label=Views&color=0e75b6&style=flat" alt="Profile Views" />  
+![Profile Views](https://komarev.com/ghpvc/?username=dandan1232&label=Views&color=0e75b6&style=flat)
+
   </div>
 
   <p><b>Technology has the power to make the world a better place</b></p>
