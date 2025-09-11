@@ -1,8 +1,9 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=18D4F7&random=false&width=735&lines=Life+is+short%2C+why+not+have+a+try%3F)](https://git.io/typing-svg)
-
+  <a href="https://github.com/dandan1232">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=18D4F7&random=false&width=735&lines=Life+is+short%2C+why+not+have+a+try%3F" alt="Typing SVG" />
+  </a>
 </div>
+
 
 
 <div align="center">
@@ -34,22 +35,18 @@
 
 ## 👋 Hi! Nice to meet you!
 
-- 💡 I’m **@dandan (Echo)** — a full-stack developer based in **Suzhou, China**  
+### 🎉About me
+- 💡 I’m **@念安 (Echo)** — a full-stack developer based in **Suzhou, China**  
 - 🔭 Passionate about **AI, digital life, and innovative coding projects**  
 - 🌱 Always curious and eager to explore new technologies and creative ideas  
-- 🎯 Believer that **technology can empower people and make the world better**  
-- 📫 Reach me via WeChat: **waitu1232**
+- 🎯 Enjoy **building interesting projects and pushing boundaries**
+- 📫 If you need any help, you can contact me via WeChat: **waitu1232**
 
----
-
-## 🌟 About Me
-
-Hi, I’m Echo 👋 A developer who enjoys building interesting projects and pushing boundaries.  
-When I’m not coding, you’ll probably find me:  
+### 🌟 When I’m not coding, you’ll probably find me:  
 - 📚 Reading books to gain fresh perspectives  
 - 🌍 Exploring the world and experiencing new cultures  
-- ✨ Thinking about how technology can blend into everyday life  
-
+- ✨ Thinking about how technology can blend into everyday life
+- 🎲 Anything fun
 ---
 
 ## 🛠️ Tech Stack
