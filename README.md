@@ -80,6 +80,13 @@ Here are some of the tools and technologies I use (and keep learning):
 
 ## 📈 GitHub Stats
 <!-- 两张卡片稳定并排：用表格控制布局 -->
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dandan1232&theme=onedark" alt="GitHub Streak" />
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td>
@@ -95,11 +102,7 @@ Here are some of the tools and technologies I use (and keep learning):
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dandan1232&theme=onedark" alt="GitHub Streak" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dandan1232&theme=dracula&radius=10&area=true" width="100%" alt="Activity Graph" />
