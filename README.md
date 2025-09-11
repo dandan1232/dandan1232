@@ -13,18 +13,14 @@
   <!-- 社交徽章 -->
   <div>
     <a href="https://blog.csdn.net/weixin_45092728?spm=1000.2115.3001.10640">
-      <img src="https://img.shields.io/badge/CSDN-论坛-c32136" alt="CSDN" />
-    </a>&emsp;&emsp;
+      <img src="https://img.shields.io/badge/CSDN-论坛-c32136" alt="CSDN" /></a>&emsp;&emsp;
     <a href="https://juejin.cn/user/3386949615231133">
-      <img src="https://img.shields.io/badge/juejin-掘金-007FFF" alt="Juejin" />
-    </a>&emsp;&emsp;
+      <img src="https://img.shields.io/badge/juejin-掘金-007FFF" alt="Juejin" /></a>&emsp;&emsp;
    <a href="https://www.yuque.com/lindand">
-     <img src="https://img.shields.io/badge/Yuque-语雀-blue" />
-   </a>&emsp;&emsp;
+     <img src="https://img.shields.io/badge/Yuque-语雀-blue" /></a>&emsp;&emsp;
     <a href="https://space.bilibili.com/21846291?spm_id_from=333.1007.0.0">
-      <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4"/></a>&emsp;
-    
-![Profile Views](https://komarev.com/ghpvc/?username=dandan1232&label=Views&color=0e75b6&style=flat)
+      <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4"/></a>&emsp;&emsp;
+    <a><img src="https://komarev.com/ghpvc/?username=dandan1232&label=Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
 
   </div>
 
@@ -33,12 +29,49 @@
 
 ---
 
-## Hi! Nice to meet you!
+## 👋 Hi! Nice to meet you!
 
-- 👋 Hi, I’m @dandan  
-- 👀 I’m curious about new things and love learning  
-- 🌱 Exploring AI and digital life while studying  
-- 📫 Reach me on WeChat: **waitu1232**
+- 💡 I’m **@dandan (Echo)** — a full-stack developer based in **Suzhou, China**  
+- 🔭 Passionate about **AI, digital life, and innovative coding projects**  
+- 🌱 Always curious and eager to explore new technologies and creative ideas  
+- 🎯 Believer that **technology can empower people and make the world better**  
+- 📫 Reach me via WeChat: **waitu1232**
+
+---
+
+## 🌟 About Me
+
+Hi, I’m Echo 👋 A developer who enjoys building interesting projects and pushing boundaries.  
+When I’m not coding, you’ll probably find me:  
+- 📚 Reading books to gain fresh perspectives  
+- 🌍 Exploring the world and experiencing new cultures  
+- ✨ Thinking about how technology can blend into everyday life  
+
+---
+
+## 🛠️ Tech Stack
+
+Here are some of the tools and technologies I use (and keep learning):  
+
+- **Languages:** Python, Java, JavaScript/TypeScript  
+- **Frameworks & Platforms:**  
+  - Backend: FastAPI, Spring Boot, Node.js  
+  - Frontend: Vue.js, React  
+- **Databases:** PostgreSQL, Neo4j, MySQL, OceanBase  
+- **AI & Tools:**  
+  - LangChain, RAG (Retrieval-Augmented Generation), FastGPT  
+  - NLP libraries (SpaCy, Transformers)  
+  - Docker, GitHub Actions for DevOps  
+- **Others:** Git, Linux/WSL, Docker Compose  
+
+---
+
+## 🎯 Future Goals
+
+- 🚀 Dive deeper into **AI + Knowledge Graphs + RAG**  
+- 🌱 Improve my **system design** and **distributed systems** skills  
+- ✈️ Combine my love for **travel & exploration** with **tech innovation**  
+- 🤝 Share my learning journey and collaborate with more awesome people
 
 ---
 
