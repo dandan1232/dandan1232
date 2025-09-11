@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D4F7&random=false&width=435&lines=Life+is+short%2C+why+not+have+a+try%3F)](https://git.io/typing-svg)
 
+
+
+<div align="center">
+<h3><img src="./src/assert/img/hellokittydance.gif" width="30"> 🚀 念安-Echo | 🌈 Full Stack Developer | 📌 SuZhou <img src="./src/assert/img/hellokittydance.gif" width="30"></h3>
+</div>
+
 <div align="center">
   <!-- 敲代码动图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="coding" /><br />
