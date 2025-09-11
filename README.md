@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D4F7&random=false&width=435&lines=Life+is+short%2C+why+not+have+a+try%3F)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=18D4F7&random=false&width=735&lines=Life+is+short%2C+why+not+have+a+try%3F)](https://git.io/typing-svg)
+
+</div>
 
 
 <div align="center">
@@ -76,29 +79,28 @@ Here are some of the tools and technologies I use (and keep learning):
 ---
 
 ## 📈 GitHub Stats
-
-<div align="center">
+<!-- 两张卡片稳定并排：用表格控制布局 -->
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/dandan1232">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=dandan1232&show_icons=true&theme=calm" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dandan1232?tab=repositories">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dandan1232&layout=compact&langs_count=8&theme=calm" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/zhongshuyi" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandan1232&theme=calm&langs_count=6&layout=compact" alt="dandan1232's Stats" height=165>
-    <img src="https://github-readme-stats.vercel.app/api?username=dandan1232&theme=calm&show_icons=true" alt="dandan1232's Stats" height=165>
-  </a>
-</p>
-
-  <!-- 下面另起一行展示 streak，视觉上更干净 -->
-  <br /><br />
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=dandan1232&theme=onedark" alt="GitHub Streak" />
   </a>
-</div>
-<br />
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dandan1232&theme=dracula" width="700" />
 </p>
 
-<!---
-dandan1232/dandan1232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dandan1232&theme=dracula&radius=10&area=true" width="100%" alt="Activity Graph" />
+</p>
