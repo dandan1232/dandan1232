@@ -14,11 +14,7 @@
 - 🌱 While completing my studies, I am also trying to explore new fields, such as AI and digital life
 - 📫 How to reach me: Maybe we can meet each other with WeChat:waitu1232
 
-<a href="https://github.com/dandan1232?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dandan1232" />
-</a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dandan1232&show_icons=true&theme=cobalt)
+![念安's GitHub stats](https://github-readme-stats.vercel.app/api?username=dandan1232&show_icons=true&theme=synthwave)
 
 <a href="https://github.com/dandan1232?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dandan1232&layout=compact&langs_count=8&card_width=320" />
