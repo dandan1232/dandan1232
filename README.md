@@ -18,7 +18,9 @@
 
 <a href="https://github.com/dandan1232?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dandan1232&layout=compact&langs_count=8&card_width=320" />
-</a>                
+</a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandan1232&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dandan1232/dandan1232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
