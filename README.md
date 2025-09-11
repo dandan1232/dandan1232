@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<h3><img src="./src/assert/img/hellokittydance.gif" width="30"> 🚀 念安-Echo | 🌈 Full Stack Developer | 📌 SuZhou <img src="./src/assert/img/hellokittydance.gif" width="30"></h3>
+<h3><img src="./hellokittydance.gif" width="30"> 🚀 念安-Echo | 🌈 Full Stack Developer | 📌 SuZhou <img src="./hellokittydance.gif" width="30"></h3>
 </div>
 
 <div align="center">
@@ -14,11 +14,17 @@
   <div>
     <a href="https://blog.csdn.net/weixin_45092728?spm=1000.2115.3001.10640">
       <img src="https://img.shields.io/badge/CSDN-论坛-c32136" alt="CSDN" />
-    </a>&emsp;
+    </a>&emsp;&emsp;
     <a href="https://juejin.cn/user/3386949615231133">
       <img src="https://img.shields.io/badge/juejin-掘金-007FFF" alt="Juejin" />
-    </a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=dandan1232&label=Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>&emsp;&emsp;
+   <a href="https://www.yuque.com/lindand">
+     <img src="https://img.shields.io/badge/Yuque-语雀-blue" />
+   </a>&emsp;&emsp;
+    <a href="https://space.bilibili.com/21846291?spm_id_from=333.1007.0.0">
+      <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4"/></a>&emsp;
+    
+    <img src="https://komarev.com/ghpvc/?username=dandan1232&label=Views&color=0e75b6&style=flat" alt="Profile Views" />  
   </div>
 
   <p><b>Technology has the power to make the world a better place</b></p>
