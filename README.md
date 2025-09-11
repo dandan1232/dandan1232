@@ -82,7 +82,7 @@ Here are some of the tools and technologies I use (and keep learning):
 <!-- 两张卡片稳定并排：用表格控制布局 -->
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/dandan1232">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=dandan1232&theme=onedark" alt="GitHub Streak" />
   </a>
 </p>
