@@ -8,9 +8,9 @@
   <div align="center">
 <!--     <a href="https://juejin.cn/user/3257207932075799"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/23473180/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; -->
-    <a href="[https://blog.csdn.net/qq_35578171](https://blog.csdn.net/weixin_45092728?spm=1000.2115.3001.10640)"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://blog.csdn.net/qq_35578171"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;  
 <!--     <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
-    <a href="[https://juejin.cn/user/3257207932075799](https://juejin.cn/user/3386949615231133)"><img src="https://img.shields.io/badge/juejin-掘金-007FFF" /></a>&emsp;
+    <a href="https://juejin.cn/user/3257207932075799"><img src="https://img.shields.io/badge/juejin-掘金-007FFF" /></a>&emsp;
 <!--     <a href="https://cloud.tencent.com/developer/user/9782163/activities"><img src="https://img.shields.io/badge/tencentcloud-腾讯云-00A1E0?logo=tencentcloud&logoColor=white" /></a>&emsp; -->
     <img src="https://komarev.com/ghpvc/?username=dandan1232&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
