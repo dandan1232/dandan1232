@@ -17,7 +17,7 @@
     <a href="https://juejin.cn/user/3386949615231133">
       <img src="https://img.shields.io/badge/juejin-掘金-007FFF" alt="Juejin" /></a>&emsp;&emsp;
    <a href="https://www.yuque.com/lindand">
-     <img src="https://img.shields.io/badge/Yuque-语雀-blue" /></a>&emsp;&emsp;
+     <img src="https://img.shields.io/badge/Yuque-语雀-green" /></a>&emsp;&emsp;
     <a href="https://space.bilibili.com/21846291?spm_id_from=333.1007.0.0">
       <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4"/></a>&emsp;&emsp;
     <a><img src="https://komarev.com/ghpvc/?username=dandan1232&label=Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
