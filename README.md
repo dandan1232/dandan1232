@@ -79,13 +79,12 @@ Here are some of the tools and technologies I use (and keep learning):
 
 <div align="center">
 
-  <!-- 两张卡片同一行，自动换行适配小屏 -->
-  <a href="https://github.com/dandan1232">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=dandan1232&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+<p align="center">
+  <a href="https://github.com/zhongshuyi" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandan1232&theme=calm&langs_count=6&layout=compact" alt="dandan1232's Stats" height=165>
+    <img src="https://github-readme-stats.vercel.app/api?username=dandan1232&theme=calm&show_icons=true" alt="dandan1232's Stats" height=165>
   </a>
-  <a href="https://github.com/dandan1232?tab=repositories">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=dandan1232&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
-  </a>
+</p>
 
   <!-- 下面另起一行展示 streak，视觉上更干净 -->
   <br /><br />
@@ -93,6 +92,11 @@ Here are some of the tools and technologies I use (and keep learning):
     <img src="https://github-readme-streak-stats.herokuapp.com?user=dandan1232&theme=onedark" alt="GitHub Streak" />
   </a>
 </div>
+<br />
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dandan1232&theme=dracula" width="700" />
+</p>
 
 <!---
 dandan1232/dandan1232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
