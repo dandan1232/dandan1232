@@ -29,6 +29,7 @@
   </div>
 
   <p><b>Technology has the power to make the world a better place</b></p>
+  
 </div>
 
 ---
@@ -89,7 +90,6 @@ Here are some of the tools and technologies I use (and keep learning):
     <td>
       <a href="https://github.com/dandan1232">
         <img height="180" src="https://github-readme-stats.vercel.app/api?username=dandan1232&show_icons=true&theme=calm" alt="GitHub Stats" />
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
       </a>
     </td>
     <td>
