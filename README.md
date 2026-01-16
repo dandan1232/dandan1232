@@ -111,3 +111,5 @@ Here are some of the tools and technologies I use (and keep learning):
       </picture>
   </tr>
 </table>
+
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-view.svg)
