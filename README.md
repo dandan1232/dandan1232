@@ -13,7 +13,7 @@
 <div align="center">
   <!-- 敲代码动图 -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="coding" /> -->
-    <img src="roler.png" style="width: 720px; height: auto;" />
+    <img src="roler-2.png" style="width: 720px; height: auto;" />
 
   <br />
 
