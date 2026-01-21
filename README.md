@@ -12,7 +12,9 @@
 
 <div align="center">
   <!-- 敲代码动图 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="coding" /><br />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="coding" /> -->
+  <img src="roler.png" />
+  <br />
 
   <!-- 社交徽章 -->
   <div>
