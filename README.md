@@ -63,19 +63,25 @@ Here are some of the tools and technologies I use (and keep learning):
   - Frontend: Vue.js, React  
 - **Databases:** PostgreSQL, Neo4j, MySQL, OceanBase  
 - **AI & Tools:**  
-  - LangChain, RAG (Retrieval-Augmented Generation), FastGPT  
-  - NLP libraries (SpaCy, Transformers)  
-  - Docker, GitHub Actions for DevOps  
-- **Others:** Git, Linux/WSL, Docker Compose  
+  - FastGPT, RAG, GraphRAG, LightRAG  
+  - Neo4j, vector databases, embedding & reranking pipelines  
+  - BGE-M3, BGE Reranker  
+  - LangChain, SpaCy, Transformers  
+  - AI Agent workflows, digital human applications  
+  - Docker, Docker Compose, FastAPI, GitHub Actions  
+
+- **Others:**  
+  - Git, Linux/WSL, API integration
 
 ---
 
-## 🎯 Future Goals
+## 🌿 Areas I’m Currently Exploring
 
-- 🚀 Dive deeper into **AI + Knowledge Graphs + RAG**  
-- 🌱 Improve my **system design** and **distributed systems** skills  
-- ✈️ Combine my love for **travel & exploration** with **tech innovation**  
-- 🤝 Share my learning journey and collaborate with more awesome people
+- 🚀 Passionate about AI, Knowledge Graphs, and RAG systems
+- 🌱 Continuously improving my system design and distributed systems skills
+- 🤖 Currently building digital human solutions for Computex, including interactive exhibition experiences and AI digital business cards
+- ✈️ Inspired by travel, exploration, and the intersection of technology and real-world experiences
+- 🤝 Excited to share my learning journey and collaborate with awesome people
 
 ---
 
