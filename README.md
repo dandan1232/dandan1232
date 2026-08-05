@@ -39,6 +39,8 @@
 
 ## 👋 Hi! Nice to meet you!
 
+<video src="./role-2.mp4" controls></video>
+
 ### 🎉About me
 - 💡 I’m **@念安 (Echo)** — a full-stack developer based in **Suzhou, China**  
 - 🔭 Passionate about **AI, digital life, and innovative coding projects**  
