@@ -85,6 +85,12 @@ Here are some of the tools and technologies I use (and keep learning):
 
 ---
 
+<p align="center">
+  <img src="./role-2.gif" width="720" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 <!-- 两张卡片稳定并排：用表格控制布局 -->
 
@@ -124,4 +130,4 @@ Here are some of the tools and technologies I use (and keep learning):
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-view.svg)
 
 
-<img src="./role-2.gif" style="width: 720px; height: auto;"/>
+
