@@ -39,7 +39,8 @@
 
 ## 👋 Hi! Nice to meet you!
 
-<video src="./role-2.mp4" controls></video>
+<img src="./role-2.gif" alt="Demo" width="720" />
+
 
 ### 🎉About me
 - 💡 I’m **@念安 (Echo)** — a full-stack developer based in **Suzhou, China**  
