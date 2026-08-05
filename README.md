@@ -39,9 +39,6 @@
 
 ## 👋 Hi! Nice to meet you!
 
-<img src="./role-2.gif" alt="Demo" width="720" />
-
-
 ### 🎉About me
 - 💡 I’m **@念安 (Echo)** — a full-stack developer based in **Suzhou, China**  
 - 🔭 Passionate about **AI, digital life, and innovative coding projects**  
@@ -125,3 +122,6 @@ Here are some of the tools and technologies I use (and keep learning):
 </table>
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-view.svg)
+
+
+<img src="./role-2.gif" style="width: 720px; height: auto;"/>
