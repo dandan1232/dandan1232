@@ -93,23 +93,22 @@
 
 ## 🛠️ Tech Stack
 
-Here are some of the tools and technologies I use (and keep learning):  
+围绕 **AI 应用与全栈产品开发**，我喜欢把知识检索、实时协作和交互可视化做成可体验的作品。以下是我在项目中使用、并持续学习的技术与工具。
 
-- **Languages:** Python, Java, JavaScript/TypeScript  
-- **Frameworks & Platforms:**  
-  - Backend: FastAPI, Spring Boot, Node.js  
-  - Frontend: Vue.js, React  
-- **Databases:** PostgreSQL, Neo4j, MySQL, OceanBase  
-- **AI & Tools:**  
-  - FastGPT, RAG, GraphRAG, LightRAG  
-  - Neo4j, vector databases, embedding & reranking pipelines  
-  - BGE-M3, BGE Reranker  
-  - LangChain, SpaCy, Transformers  
-  - AI Agent workflows, digital human applications  
-  - Docker, Docker Compose, FastAPI, GitHub Actions  
+| 方向 | 技术与工具 | 项目中的应用 |
+| :--- | :--- | :--- |
+| **编程语言** | Python · Java · JavaScript · TypeScript | Web 应用、后端服务与桌面自动化工具 |
+| **Web 前端** | Vue.js · React · Next.js · Vite | 项目工作台、交互界面与前后端一体化应用 |
+| **后端与接口** | FastAPI · Spring Boot · Node.js · API Integration | 业务接口、模型服务接入与第三方能力整合 |
+| **AI 应用** | FastGPT · LangChain · Transformers · SpaCy · AI Agent Workflows | 模型 API 接入、内容处理、Agent 工作流与数字人应用 |
+| **检索与知识图谱** | RAG · GraphRAG · LightRAG · Vector Search · Embedding · Reranking · BGE-M3 · BGE Reranker | 知识入库、图谱关联、召回重排与可追溯问答 |
+| **数据与存储** | PostgreSQL · MySQL · Neo4j · OceanBase · 向量数据库 · IndexedDB | 关系数据、图数据、向量检索与浏览器本地学习记录 |
+| **实时协作与文档** | WebSocket · Tiptap · Yjs | CollabDocs 的协同编辑、HeartCloud Live 的实时课堂互动 |
+| **3D 与交互可视化** | Three.js · React Three Fiber | 层境的模型可视化、物证档案局的 3D 物证观察 |
+| **小程序与生活工具** | uni-app · Vue 3 · 微信小程序 API · 微信云开发 | 小鲜知的到期管理、多方式录入与微信订阅提醒 |
+| **工程与部署** | Git · Linux / WSL · Docker · Docker Compose · GitHub Actions | 日常开发、应用容器化、自动构建与部署 |
+| **测试与验证** | Vitest · Playwright | 单元与组件测试、端到端测试及跨浏览器验证 |
 
-- **Others:**  
-  - Git, Linux/WSL, API integration
 
 ---
 
