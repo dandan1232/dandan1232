@@ -1,8 +1,57 @@
-# 念安 · Echo Lin
+<div align="center">
+  <a href="https://github.com/dandan1232">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=18D4F7&random=false&width=735&lines=Life+is+short%2C+why+not+have+a+try%3F" alt="Typing SVG" />
+  </a>
+</div>
 
-全栈开发者，现居苏州。探索 AI 应用、实时协作，以及浏览器里的交互世界。
 
-[个人网站 ↗](https://dandan1232.github.io/) · [全部仓库](https://github.com/dandan1232?tab=repositories) · [CSDN](https://blog.csdn.net/weixin_45092728) · [掘金](https://juejin.cn/user/3386949615231133) · [语雀](https://www.yuque.com/lindand) · [Bilibili](https://space.bilibili.com/21846291)
+
+<div align="center">
+<h3><img src="./hellokittydance.gif" width="30"> 🚀 念安-Echo | 🌈 Full Stack Developer | 📌 SuZhou <img src="./hellokittydance.gif" width="30"></h3>
+</div>
+
+<div align="center">
+  <!-- 敲代码动图 -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="coding" /> -->
+    <img src="roler-2.png" style="width: 720px; height: auto;" />
+
+  <br />
+
+  <!-- 社交徽章 -->
+  <div>
+    <a href="https://blog.csdn.net/weixin_45092728?spm=1000.2115.3001.10640">
+      <img src="https://img.shields.io/badge/CSDN-论坛-c32136" alt="CSDN" /></a>&emsp;&emsp;
+    <a href="https://juejin.cn/user/3386949615231133">
+      <img src="https://img.shields.io/badge/juejin-掘金-007FFF" alt="Juejin" /></a>&emsp;&emsp;
+   <a href="https://www.yuque.com/lindand">
+     <img src="https://img.shields.io/badge/Yuque-语雀-green" /></a>&emsp;&emsp;
+    <a href="https://space.bilibili.com/21846291?spm_id_from=333.1007.0.0">
+      <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4"/></a>&emsp;&emsp;
+    <a><img src="https://komarev.com/ghpvc/?username=dandan1232&label=Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
+
+  </div>
+
+  <p><b>Technology has the power to make the world a better place</b></p>
+  
+</div>
+
+---
+
+## 👋 Hi! Nice to meet you!
+
+### 🎉About me
+- 💡 I’m **@念安 (Echo)** — a full-stack developer based in **Suzhou, China**  
+- 🔭 Passionate about **AI, digital life, and innovative coding projects**  
+- 🌱 Always curious and eager to explore new technologies and creative ideas  
+- 🎯 Enjoy **building interesting projects and pushing boundaries**
+- 📫 If you need any help, you can contact me via WeChat: **waitu1232**
+
+### 🌟 When I’m not coding, you’ll probably find me:  
+- 📚 Reading books to gain fresh perspectives  
+- 🌍 Exploring the world and experiencing new cultures  
+- ✨ Thinking about how technology can blend into everyday life
+- 🎲 Anything fun
+---
 
 ## 项目集
 
@@ -42,45 +91,81 @@
 
 </details>
 
-## 关于我 / About me
+## 🛠️ Tech Stack
 
-- 我是 **念安（Echo）**，一名在苏州的全栈开发者。
-- 关注 **AI 应用、知识图谱、检索增强生成（RAG）与数字人**，喜欢把新想法做成可以使用的产品。
-- 从学习工具、创作与协作，到 3D 交互和生活小工具，持续探索技术与日常生活的连接。
-- 欢迎交流项目与想法。微信：**waitu1232**。
+Here are some of the tools and technologies I use (and keep learning):  
 
-### 常用技术
+- **Languages:** Python, Java, JavaScript/TypeScript  
+- **Frameworks & Platforms:**  
+  - Backend: FastAPI, Spring Boot, Node.js  
+  - Frontend: Vue.js, React  
+- **Databases:** PostgreSQL, Neo4j, MySQL, OceanBase  
+- **AI & Tools:**  
+  - FastGPT, RAG, GraphRAG, LightRAG  
+  - Neo4j, vector databases, embedding & reranking pipelines  
+  - BGE-M3, BGE Reranker  
+  - LangChain, SpaCy, Transformers  
+  - AI Agent workflows, digital human applications  
+  - Docker, Docker Compose, FastAPI, GitHub Actions  
 
-| 方向 | 技术与工具 |
-| :--- | :--- |
-| 语言与开发 | Python · Java · JavaScript / TypeScript · Git · Linux / WSL |
-| 前端与后端 | Vue · React · Next.js · FastAPI · Spring Boot · Node.js |
-| 数据与 AI | PostgreSQL · MySQL · OceanBase · Neo4j · FastGPT · LangChain · Transformers |
-| 检索与交付 | RAG / GraphRAG / LightRAG · Embedding / Reranking · Docker · GitHub Actions |
+- **Others:**  
+  - Git, Linux/WSL, API integration
 
-<details>
-  <summary>代码之外 / Beyond coding</summary>
-  <br />
-  <p>喜欢阅读、旅行，尝试新鲜事物，也喜欢思考技术怎样融入生活。</p>
-  <p align="center"><img src="./roler-2.png" width="640" alt="Echo 的个人形象插画" /></p>
-  <p align="center"><b>Technology has the power to make the world a better place.</b></p>
-  <p align="center"><img src="./role-2.gif" width="640" alt="Echo 的数字角色动画" /></p>
-</details>
+---
 
-<details>
-  <summary>GitHub 数据 / Activity &amp; stats</summary>
-  <br />
-  <p align="center">
-    <a href="https://github.com/dandan1232"><img src="https://github-readme-streak-stats.herokuapp.com?user=dandan1232&amp;theme=onedark" alt="dandan1232 的 GitHub 连续贡献统计" /></a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/dandan1232"><img height="165" src="https://github-readme-stats.vercel.app/api?username=dandan1232&amp;show_icons=true&amp;theme=calm" alt="dandan1232 的 GitHub 统计" /></a>
-    <a href="https://github.com/dandan1232?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=dandan1232&amp;layout=compact&amp;langs_count=8&amp;theme=calm" alt="dandan1232 的常用编程语言" /></a>
-  </p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dandan1232&amp;theme=xcode&amp;bg_color=FF000000&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dandan1232&amp;theme=xcode&amp;bg_color=FF000000&amp;color=000000&amp;hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dandan1232&amp;theme=xcode&amp;bg_color=FF000000&amp;hide_border=true" alt="dandan1232 的贡献活动图" />
-  </picture>
-  <p><img src="./profile-3d-contrib/profile-night-view.svg" alt="dandan1232 的 3D 贡献图" /></p>
-</details>
+## 🌿 Areas I’m Currently Exploring
+
+- 🚀 Passionate about AI, Knowledge Graphs, and RAG systems
+- 🌱 Continuously improving my system design and distributed systems skills
+- 🤖 Currently building digital human solutions for Computex, including interactive exhibition experiences and AI digital business cards
+- ✈️ Inspired by travel, exploration, and the intersection of technology and real-world experiences
+- 🤝 Excited to share my learning journey and collaborate with awesome people
+
+---
+
+<p align="center">
+  <img src="./role-2.gif" width="720" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<!-- 两张卡片稳定并排：用表格控制布局 -->
+
+<p align="center">
+  <a href="https://github.com/dandan1232">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dandan1232&theme=onedark" alt="GitHub Streak" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/dandan1232">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=dandan1232&show_icons=true&theme=calm" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dandan1232?tab=repositories">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dandan1232&layout=compact&langs_count=8&theme=calm" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dandan1232&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dandan1232&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-view.svg)
+
+
+
