@@ -88,7 +88,7 @@
 | 那就这样吧 | 晚饭吃什么、买不买、敲木鱼……把日常决策与解压小工具放在一起，让生活轻松一点，也带一点冷幽默。 | [源码](https://github.com/dandan1232/Just-Like-This) · [在线体验 ↗](https://just-like-this.vercel.app/) |
 | HeartCloud Live | 学生用手机或 iPad 提交英文单词，大屏实时汇成彩色爱心词云。让每一次课堂互动，都能被看见。 | [源码](https://github.com/dandan1232/heartcloud-live) |
 | 小鲜知 · 智能到期提醒 | 管理食品保质期、证件、账单与纪念日。支持拍照识别、语音录入与微信订阅提醒，让重要日期不被遗忘。 | [源码](https://github.com/dandan1232/reminder-anything-uniapp) |
-| 雷神自动暂停 | 检测游戏或 Steam 退出后，尝试自动暂停雷神加速器。减少忘记暂停带来的时长消耗，让工具替你留意。 | [源码](https://github.com/dandan1232/raiden_pause) |
+| 雷神自动暂停 | 检测游戏或 Steam 退出后，尝试自动暂停雷神加速器。减少忘记暂停带来的时长消耗，让工具替你留意。 | [源码](https://github.com/dandan1232/raiden_pause) · [Windows 下载](https://github.com/dandan1232/raiden_pause/releases/tag/v1.0) |
 
 </details>
 
