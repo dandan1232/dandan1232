@@ -54,9 +54,9 @@
 - 🎲 Anything fun
 ---
 
-## 项目集
+## Project Collection
 
-点击卡片查看我的项目。
+Click a card to view my projects.
 
 <!-- 卡片使用固定宽度和行内排版，在 GitHub 中随可用宽度自然换行。 -->
 <p align="left">
