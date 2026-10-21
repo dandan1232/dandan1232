@@ -60,6 +60,7 @@ Click a card to view my projects.
 
 <!-- 卡片使用固定宽度和行内排版，在 GitHub 中随可用宽度自然换行。 -->
 <p align="left">
+  <a href="https://github.com/dandan1232/mai-recap"><img src="./assets/project-cards/mai-recap.jpg" width="270" alt="麦迹 · mai-recap：把近期麦当劳点餐记录变成五页回顾与分享卡。支持网页查询和本地生成，让饭点、门店与常点餐品留下一份回忆。" /></a>
   <a href="https://github.com/dandan1232/transformer-layerscape"><img src="./assets/project-cards/layerscape.jpg" width="270" alt="层境 · LayerScape：用中文课程、二维计算图和三维模型，逐步看懂 Transformer，也能在浏览器里运行真实模型。" /></a>
   <a href="https://github.com/dandan1232/NarratorAI"><img src="./assets/project-cards/narratorai.jpg" width="270" alt="声悦 · NarratorAI：探索有记忆、有性格、会成长的 AI 陪伴。角色信息、关系变化与跨会话记忆，随着每次对话逐步积累。" /></a>
   <a href="https://github.com/dandan1232/reminder-anything-uniapp"><img src="./assets/project-cards/reminder.jpg" width="270" alt="小鲜知 · 智能到期提醒：管理食品保质期、证件、账单与纪念日。支持拍照识别、语音录入与微信订阅提醒，让重要日期不被遗忘。" /></a>
@@ -79,6 +80,7 @@ Click a card to view my projects.
 
 | 项目 | 简介 | 入口 |
 | :--- | :--- | :--- |
+| 麦迹 · mai-recap | 把近期麦当劳点餐记录变成五页回顾与分享卡。支持网页查询和本地生成，让饭点、门店与常点餐品留下一份回忆。 | [源码](https://github.com/dandan1232/mai-recap) · [在线体验 ↗](https://mai-recap.vercel.app/) |
 | 层境 · LayerScape | 用中文课程、二维计算图和三维模型，逐步看懂 Transformer，也能在浏览器里运行真实模型。 | [源码](https://github.com/dandan1232/transformer-layerscape) · [在线体验 ↗](https://tl.nianan.ggff.net/) |
 | 声悦 · NarratorAI | 探索有记忆、有性格、会成长的 AI 陪伴。角色信息、关系变化与跨会话记忆，随着每次对话逐步积累。 | [源码](https://github.com/dandan1232/NarratorAI) · [在线体验 ↗](https://narrator-ai-five.vercel.app/) |
 | 小鲜知 · 智能到期提醒 | 管理食品保质期、证件、账单与纪念日。支持拍照识别、语音录入与微信订阅提醒，让重要日期不被遗忘。 | [源码](https://github.com/dandan1232/reminder-anything-uniapp) |
