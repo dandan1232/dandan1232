@@ -73,6 +73,10 @@ Click a card to view my projects.
   <a href="https://github.com/dandan1232/Just-Like-This"><img src="./assets/project-cards/just-like-this.jpg" width="270" alt="那就这样吧：晚饭吃什么、买不买、敲木鱼……把日常决策与解压小工具放在一起，让生活轻松一点，也带一点冷幽默。" /></a>
   <a href="https://github.com/dandan1232/heartcloud-live"><img src="./assets/project-cards/heartcloud.jpg" width="270" alt="HeartCloud Live：学生用手机或 iPad 提交英文单词，大屏实时汇成彩色爱心词云。让每一次课堂互动，都能被看见。" /></a>
   <a href="https://github.com/dandan1232/raiden_pause"><img src="./assets/project-cards/raiden.jpg" width="270" alt="雷神自动暂停：检测游戏或 Steam 退出后，尝试自动暂停雷神加速器。减少忘记暂停带来的时长消耗，让工具替你留意。" /></a>
+  <a href="https://github.com/dandan1232/WaytoAGI-MountainSpringPinball-games"><img src="./assets/project-cards/mountain-spring-pinball.jpg" width="270" alt="WaytoAGI黑客松 · 洞庭山泉 · 山泉弹珠台：操控一滴山泉穿过岩层、灌装站与配送岔路，把它送进你的杯子。" /></a>
+  <a href="https://github.com/dandan1232/WaytoAGI-games"><img src="./assets/project-cards/clean-a-little.jpg" width="270" alt="WaytoAGI黑客松 · 清洁小世界 · Clean a Little：拖动卡赫清洁设备洗净庭院、窗户、厨房与沙发，让原色与风景逐渐显现。" /></a>
+  <a href="https://github.com/dandan1232/WaytoAGI-fly-games"><img src="./assets/project-cards/pressure-washer-flight.jpg" width="270" alt="WaytoAGI黑客松 · 我靠洗地飞起来了：用水枪反冲力爬上摩天楼，洗亮窗户、发现住户秘密，登顶生成专属海报。" /></a>
+  <a href="https://github.com/dandan1232/WaytoAGI-Short-formdrama"><img src="./assets/project-cards/waytoagi-short-drama.jpg" width="270" alt="WaytoAGI黑客松 · WaytoAGI 短剧：围绕生活误会创作短剧，整理剧本、分镜与镜头提示词。私有仓库，仅展示项目简介。" /></a>
 </p>
 
 <details>
@@ -93,6 +97,10 @@ Click a card to view my projects.
 | 那就这样吧 | 晚饭吃什么、买不买、敲木鱼……把日常决策与解压小工具放在一起，让生活轻松一点，也带一点冷幽默。 | [源码](https://github.com/dandan1232/Just-Like-This) · [在线体验 ↗](https://just-like-this.vercel.app/) |
 | HeartCloud Live | 学生用手机或 iPad 提交英文单词，大屏实时汇成彩色爱心词云。让每一次课堂互动，都能被看见。 | [源码](https://github.com/dandan1232/heartcloud-live) |
 | 雷神自动暂停 | 检测游戏或 Steam 退出后，尝试自动暂停雷神加速器。减少忘记暂停带来的时长消耗，让工具替你留意。 | [源码](https://github.com/dandan1232/raiden_pause) · [Windows 下载](https://github.com/dandan1232/raiden_pause/releases/tag/v1.0) |
+| WaytoAGI黑客松 · 洞庭山泉 · 山泉弹珠台 | 操控一滴山泉穿过岩层、灌装站与配送岔路，把它送进你的杯子。 | [源码](https://github.com/dandan1232/WaytoAGI-MountainSpringPinball-games) · [在线体验 ↗](https://mountain-spring-pinball.vercel.app/) |
+| WaytoAGI黑客松 · 清洁小世界 · Clean a Little | 拖动卡赫清洁设备洗净庭院、窗户、厨房与沙发，让原色与风景逐渐显现。 | [源码](https://github.com/dandan1232/WaytoAGI-games) · [在线体验 ↗](https://clean-a-little.vercel.app/) |
+| WaytoAGI黑客松 · 我靠洗地飞起来了 | 用水枪反冲力爬上摩天楼，洗亮窗户、发现住户秘密，登顶生成专属海报。 | [源码](https://github.com/dandan1232/WaytoAGI-fly-games) · [在线体验 ↗](https://waytoagi-fly-games.vercel.app/) |
+| WaytoAGI黑客松 · WaytoAGI 短剧 | 围绕生活误会创作短剧，整理剧本、分镜与镜头提示词。仅展示项目简介，仓库保持私有。 | [私有仓库（需访问权限）](https://github.com/dandan1232/WaytoAGI-Short-formdrama) |
 
 </details>
 
