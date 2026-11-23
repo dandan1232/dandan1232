@@ -69,13 +69,13 @@ Click a card to view my projects.
   <a href="https://github.com/dandan1232/LearnSphere"><img src="./assets/project-cards/learnsphere.jpg" width="270" alt="LearnSphere：把技术文档和在线书籍变成章节测验。答题后查看评分、原文证据与 AI 讲解，把读过的知识真正记住。" /></a>
   <a href="https://github.com/dandan1232/CollabDocs"><img src="./assets/project-cards/collabdocs.jpg" width="270" alt="CollabDocs：面向多人实时协作与内容创作的在线文档工作室。把共同编辑和写作放在同一个空间，让想法一起生长。" /></a>
   <a href="https://github.com/dandan1232/evidence-bureau"><img src="./assets/project-cards/evidence-bureau.jpg" width="270" alt="物证档案局：每件物品都藏着一个答案。在浏览器里观察 3D 物证、归档线索、串联证据，调查《消失的住客》。" /></a>
-  <a href="https://github.com/dandan1232/JobTailor"><img src="./assets/project-cards/jobtailor.jpg" width="270" alt="JobTailor：对照目标岗位分析简历，给出有依据的修改建议。逐条确认采纳，再生成和导出，让每次修改都能核对。" /></a>
 </p>
 
 <details>
-<summary>展开更多项目（8 个）</summary>
+<summary>展开更多项目（9 个）</summary>
 
 <p align="left">
+  <a href="https://github.com/dandan1232/JobTailor"><img src="./assets/project-cards/jobtailor.jpg" width="270" alt="JobTailor：对照目标岗位分析简历，给出有依据的修改建议。逐条确认采纳，再生成和导出，让每次修改都能核对。" /></a>
   <a href="https://github.com/dandan1232/ConvertKit"><img src="./assets/project-cards/convertkit.jpg" width="270" alt="ConvertKit：在浏览器本地完成文件格式转换，支持批量处理和 EPUB 导出。文件不上传服务器，打开就能使用。" /></a>
   <a href="https://github.com/dandan1232/Just-Like-This"><img src="./assets/project-cards/just-like-this.jpg" width="270" alt="那就这样吧：晚饭吃什么、买不买、敲木鱼……把日常决策与解压小工具放在一起，让生活轻松一点，也带一点冷幽默。" /></a>
   <a href="https://github.com/dandan1232/heartcloud-live"><img src="./assets/project-cards/heartcloud.jpg" width="270" alt="HeartCloud Live：学生用手机或 iPad 提交英文单词，大屏实时汇成彩色爱心词云。让每一次课堂互动，都能被看见。" /></a>
