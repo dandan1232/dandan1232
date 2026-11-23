@@ -63,6 +63,7 @@ Click a card to view my projects.
   <a href="https://github.com/dandan1232/mai-recap"><img src="./assets/project-cards/mai-recap.jpg" width="270" alt="开发者大赛 · 麦迹 · mai-recap：把近期麦当劳点餐记录变成五页回顾与分享卡。支持网页查询和本地生成，让饭点、门店与常点餐品留下一份回忆。" /></a>
   <a href="https://github.com/dandan1232/transformer-layerscape"><img src="./assets/project-cards/layerscape.jpg" width="270" alt="层境 · LayerScape：用中文课程、二维计算图和三维模型，逐步看懂 Transformer，也能在浏览器里运行真实模型。" /></a>
   <a href="https://github.com/dandan1232/NarratorAI"><img src="./assets/project-cards/narratorai.jpg" width="270" alt="声悦 · NarratorAI：探索有记忆、有性格、会成长的 AI 陪伴。角色信息、关系变化与跨会话记忆，随着每次对话逐步积累。" /></a>
+  <a href="https://github.com/dandan1232/cyber-town"><img src="./assets/project-cards/cyber-town.jpg" width="270" alt="赛博小镇 · Cyber Town：在像素办公室里和三位居民交谈。每位居民分别记下与你的对话，好感度也会随交流变化。" /></a>
   <a href="https://github.com/dandan1232/reminder-anything-uniapp"><img src="./assets/project-cards/reminder.jpg" width="270" alt="小鲜知 · 智能到期提醒：管理食品保质期、证件、账单与纪念日。支持拍照识别、语音录入与微信订阅提醒，让重要日期不被遗忘。" /></a>
   <a href="https://github.com/SparkAgentForge/flowguard-ai/tree/main"><img src="./assets/project-cards/flowguard.jpg" width="270" alt="黑客松 · FlowGuard AI：对照标准操作流程审查装配视频，逐步保存证据。发现漏装或证据不足后，串联人工复核、返工与报告归档。" /></a>
   <a href="https://github.com/dandan1232/LearnSphere"><img src="./assets/project-cards/learnsphere.jpg" width="270" alt="LearnSphere：把技术文档和在线书籍变成章节测验。答题后查看评分、原文证据与 AI 讲解，把读过的知识真正记住。" /></a>
@@ -95,6 +96,7 @@ Click a card to view my projects.
 | 麦迹 · mai-recap | 把近期麦当劳点餐记录变成五页回顾与分享卡。支持网页查询和本地生成，让饭点、门店与常点餐品留下一份回忆。 | [源码](https://github.com/dandan1232/mai-recap) · [在线体验 ↗](https://mai-recap.vercel.app/) |
 | 层境 · LayerScape | 用中文课程、二维计算图和三维模型，逐步看懂 Transformer，也能在浏览器里运行真实模型。 | [源码](https://github.com/dandan1232/transformer-layerscape) · [在线体验 ↗](https://tl.nianan.ggff.net/) |
 | 声悦 · NarratorAI | 探索有记忆、有性格、会成长的 AI 陪伴。角色信息、关系变化与跨会话记忆，随着每次对话逐步积累。 | [源码](https://github.com/dandan1232/NarratorAI) · [在线体验 ↗](https://narrator-ai-five.vercel.app/) |
+| 赛博小镇 · Cyber Town | 在像素办公室里和三位居民交谈。每位居民分别记下与你的对话，好感度也会随交流变化。 | [源码](https://github.com/dandan1232/cyber-town) · [在线试玩 ↗](https://cyber-town.vercel.app/) |
 | 小鲜知 · 智能到期提醒 | 管理食品保质期、证件、账单与纪念日。支持拍照识别、语音录入与微信订阅提醒，让重要日期不被遗忘。 | [源码](https://github.com/dandan1232/reminder-anything-uniapp) |
 | 黑客松 · FlowGuard AI | 对照标准操作流程审查装配视频，逐步保存证据。发现漏装或证据不足后，串联人工复核、返工与报告归档。 | [源码](https://github.com/SparkAgentForge/flowguard-ai/tree/main) |
 | LearnSphere | 把技术文档和在线书籍变成章节测验。答题后查看评分、原文证据与 AI 讲解，把读过的知识真正记住。 | [源码](https://github.com/dandan1232/LearnSphere) · [在线体验 ↗](https://learnsphere.nianan.ggff.net/) |
